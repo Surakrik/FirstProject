@@ -7,6 +7,8 @@ public class FirstProj {
 System.out.println("hello Git");
 
 System.out.println("hiii");
+
+		System.out.println("Done pull");
 	}
 
 }
